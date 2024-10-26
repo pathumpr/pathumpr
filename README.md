@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bro&label=Profile%20views&color=0e75b6&style=flat" alt="bro" /> </p>
 
 <div align="center">
-
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"><br/>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  
   <div align="left">
     <ul>
       <li>🎓 I’m an undergraduate at <b><a href="https://www.sltc.ac.lk" target="_blank">SLTC Research University</a></b></li>
@@ -13,7 +13,7 @@
       <li>👨‍💻 Full-Stack <b>Ninja</b></li>
     </ul>
   </div>
-
+  
   <h3 align="left">Contact Me</h3>
   <div align="left">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
@@ -21,6 +21,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </div>
+
+###
 
   <h3 align="left">Tools & Languages</h3>
   <div align="left">
