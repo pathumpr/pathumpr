@@ -9,7 +9,7 @@
   <div align="left">
     <ul>
       <li>🎓 I’m an undergraduate at <b><a href="https://www.sltc.ac.lk" target="_blank">SLTC Research University</a></b></li>
-      <li>👨‍🎓 Currently pursuing my <b>BSc.(Hons.) Data Science</b></li>
+      <li>👨‍🎓 Currently pursuing my <b>BSc(Hons) Data Science</b></li>
       <li>👨‍💻 Full-Stack <b>Ninja</b></li>
     </ul>
   </div>
