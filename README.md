@@ -11,6 +11,7 @@
   ###
   
   <div align="left">
+    ###
     <ul>
       <li>🎓 I’m an undergraduate at <b><a href="https://www.sltc.ac.lk" target="_blank">SLTC Research University</a></b></li>
       <li>👨‍🎓 Currently pursuing my <b>BSc(Hons) Data Science</b></li>
@@ -20,7 +21,7 @@
 
   ###
 
-  <h3 align="left">Tools & Languages</h3>
+  <h3 align="left">Contact Me</h3>
   <div align="left">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"/>        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"/>
