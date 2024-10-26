@@ -7,7 +7,11 @@
 - 👨‍🎓 Currently pursuing my **BSc.(Hons.) Data Science**
 - 👨‍💻 Full-Stack **Ninja**
 
-<h5 align="left">Languages</h5>
+###
+
+<h4 align="left">Tools & Languages</h4>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -42,5 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
+
+###
 
 
