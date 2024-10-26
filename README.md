@@ -1,30 +1,17 @@
 <h1 align="center">Hi 👋, I'm Avishka Pathum</h1>
 <h3 align="center">Full-Stack developer from Sri Lanka</h3>
 
-###
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bro&label=Profile%20views&color=0e75b6&style=flat" alt="bro" /> </p>
 
 <div align="center">
-  
-  ###
-  
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"><br/>
 
-  ###
-  
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"><br/>
   <div align="left">
-    
-  ###
-  
-  <ul>
-    <li>🎓 I’m an undergraduate at <b><a href="https://www.sltc.ac.lk" target="_blank">SLTC Research University</a></b></li>
-    <li>👨‍🎓 Currently pursuing my <b>BSc(Hons) Data Science</b></li>
-    <li>👨‍💻 Full-Stack <b>Ninja</b></li>
-  </ul>
-  
-  ###
-    
+    <ul>
+      <li>🎓 I’m an undergraduate at <b><a href="https://www.sltc.ac.lk" target="_blank">SLTC Research University</a></b></li>
+      <li>👨‍🎓 Currently pursuing my <b>BSc(Hons) Data Science</b></li>
+      <li>👨‍💻 Full-Stack <b>Ninja</b></li>
+    </ul>
   </div>
 
   ###
