@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bro&label=Profile%20views&color=0e75b6&style=flat" alt="bro" /> </p>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" height="200" />
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" height="150" />
 <div align="left">
   <ul>
     <li>🎓 I’m an undergraduate at <b><a href="https://www.sltc.ac.lk" target="_blank">SLTC Research University</a></b></li>
