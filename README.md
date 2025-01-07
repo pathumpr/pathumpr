@@ -73,8 +73,6 @@
   <div align="left">
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pathumpr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-
-  <img src="https://streak-stats.demolab.com?user=pathumpr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
   </div>
 </div>
